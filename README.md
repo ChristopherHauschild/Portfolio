@@ -12,7 +12,7 @@ Você pode acessar através deste <a href="https://christopher-hauschild.netlify
 
 ### Acesso ao código: :bulb:
 
-Você pode acessar o código da aplicação através deste <a href="https://github.com/ChristopherHauschild/My-Portfolio"></a>
+Você pode acessar o código da aplicação através deste <a href="https://github.com/ChristopherHauschild/My-Portfolio">link</a>.
 
 <hr>
 
