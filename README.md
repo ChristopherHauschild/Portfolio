@@ -1,6 +1,6 @@
 # <p align="center">:mortar_board:  &nbsp; Portfolio :mortar_board: </p>
 
-<p align="center"> <a href="https://christopher-hauschild.netlify.app">Site</a> | <a href="https://github.com/ChristopherHauschild/My-Portfolio">Código</a> </p>
+### <p align="center"> <a href="https://christopher-hauschild.netlify.app">Site</a> | <a href="https://github.com/ChristopherHauschild/My-Portfolio">Código</a> </p>
 
 A presente aplicação foi desenvolvida utilizando o React, em conjunto ao Material UI e styled-components, e surgiu da necessidade que encontrei de disponibilizar em algum outro local informações pessoais e sobre meu contato com o mundo da programação. O deploy da aplicação ficou à cargo do Netlify.
 
