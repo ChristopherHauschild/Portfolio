@@ -16,5 +16,5 @@ Você pode acessar o código da aplicação através deste <a href="https://gith
 
 <hr>
 
-Aplicação desenvolvida com horas em frente ao :computer: por Christopher Hauschild Schott
+Aplicação desenvolvida com horas em frente ao :computer:  &nbsp; por Christopher Hauschild Schott
 
