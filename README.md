@@ -1,7 +1,5 @@
 # <p align="center">:mortar_board:  &nbsp; Portfolio :mortar_board: </p>
 
-[![HitCount](http://hits.dwyl.com/ChristopherHauschild/Portfolio.svg)](http://hits.dwyl.com/ChristopherHauschild/Portfolio)
-
 ### <p align="center"> <a href="https://christopher-hauschild.netlify.app">Site</a> | <a href="https://github.com/ChristopherHauschild/My-Portfolio">Código</a> </p>
 
 
